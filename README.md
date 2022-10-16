@@ -19,6 +19,8 @@ The first gravitational wave discoveries earned a Nobel Prize.
 
 Further study of these waves may enable scientists to learn about the structure of the most extreme stars in our universe.
 
+- continuous gravitational-wave signals
+https://www.ligo.org/science/GW-Continuous.php
 
 -----
 
