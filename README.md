@@ -24,3 +24,12 @@ https://www.ligo.org/science/GW-Continuous.php
 
 -----
 
+## Evaluation
+
+Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
+
+- area under the ROC curve
+
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+
+-----
