@@ -22,6 +22,16 @@ Further study of these waves may enable scientists to learn about the structure 
 - continuous gravitational-wave signals
 https://www.ligo.org/science/GW-Continuous.php
 
+
+-----
+
+- paper
+
+### Searches for Gravitational Waves from Known Pulsars at Two Harmonics in the Second and Third
+LIGO-Virgo Observing Runs
+
+https://arxiv.org/pdf/2111.13106.pdf
+
 -----
 
 ## Evaluation
